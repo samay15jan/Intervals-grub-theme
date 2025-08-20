@@ -1,5 +1,5 @@
 #! /usr/bin/env bash
 
-grub2-mkfont -o unifont-16.pf2 -s 16 unifont.otf
-grub2-mkfont -o unifont-24.pf2 -s 24 unifont.otf
-grub2-mkfont -o unifont-32.pf2 -s 32 unifont.otf
+grub-mkfont -o Montserrat-16.pf2 -s 16 Montserrat.otf
+grub-mkfont -o Montserrat-24.pf2 -s 24 Montserrat.otf
+grub-mkfont -o Montserrat-32.pf2 -s 32 Montserrat.otf

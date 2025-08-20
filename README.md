@@ -13,6 +13,11 @@ Usage:  `./install.sh [OPTIONS...]`
 
 _If no options are used, a user interface `dialog` will show up instead_
 
+### For Pywal with custom background
+```sh
+./custom_install.sh /path/to/wallpaper/
+```
+
 ### Examples:
  - Install window theme on 2k display device:
 
